@@ -1,0 +1,5 @@
+MessageID: 2312321393
+Message Hash: 23:2:HIHI
+Recipient: +27726252934
+Message: hi
+
